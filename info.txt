@@ -1,1 +1,3 @@
 This is plat app info
+app descriptions: 
+bla lba'lskjfljldf
